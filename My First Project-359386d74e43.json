@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tribal-monolith-242711",
+  "private_key_id": "359386d74e438c82cb913d839293f7587e96f225",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCxgUMf3y8OpjBK\n8NIT4E2IpgnOt9Bu1XaMVb39oHQVp5xHsABkf0qErhQU5FGI4mFFNPnG1uiObgFM\n3QeNkOBTargzQV9CjlUNEd16oiPx39WP1Fvoev3lScFMLyiVGjse/43xHxJ9a+oh\nkfidlc6CxBmN9c7snRUiUs6ZWTUWLlW3KvAw4pvZXF6UHZ2SE/Ph5G+X3Y65ANVc\nQWO0xWfBazIlY9J5X22ru5vPnQEZuKKudmGXI0gwpLFAewukPa6Eqr08cVY6J1yg\ne7Glt+A95nvuhg89FlhAwfp7riEQlnAmIv4WzVt/SC0V6rs4N2fKmywyjWxoulQP\nv0TBbOlpAgMBAAECgf9b2AmqC6vymwQXwpetCLZzxNQRpUccR+Sf5187HE4By3E9\nSDWoa/FBGqj/QUxanv2uwKmX1xsK6B0OOScKRKVh4mBYq7PRAvYTKBptwhJkq/1e\noOQ+Jjz8SFJnxMj6yQAzQxvTo96E5TM10+/nZASAnhiNZayayBg+6kIrHS/eEBxo\nbfbvTRkBTZr49bFFK8BsK9BL2a+Y++9pnNdCtvXSaGl/BPgd8tWqx7oMLj72k9J6\nX0woP+Zo3V/2c6+J+IhzOP34cS9MYxqOK2bZDQk+tjT8R8Px2bx5B4jYdNhrbTxm\nLelTQuOLCPyYoKZgOlUJ0RIFjOfbGuTy+H/eiiUCgYEA5+TuhKKlpy61tgPCquEp\n/pyAx5NvFdDGaZ4DpVuH2Tkd1rJnFPlZKQje8H0P7FhyhoIJtogx4VBBdmdnmIlV\n6YUev+omyvL4cisyd4ndoNk/lc6PPuRlh8s9HJSTAbWFwWLj3ujt5dGLAGUftDxb\nkjK/FT882eGtBJ6d0SHIu/0CgYEAw/TyB9QdGyJ2sCssEUvXRqSrsx3f8r1HjjJP\nqjLwFASg0p6uOshTxPWXbRKyworxB8yI+RIBVlg7+edSIGZ1mqH6+XbiajZjT+GF\nONrEk7SU1cYe0B1rRUSp9Fgu+FT4YF6BbUpGSkrWa2AJY2Nw4dGnPXvKeEMITN7d\ntGwfIN0CgYBS3JEGQAAlXyF7KpjS6qZQ3qd9qQcWqoVblCUFX1GJo0kwQItpCTh8\n2ziegnHAKFK0EZ9a5Au+0SizIHv6G4jharn0Jb0649s3IIxl/pN9OGPqKecxt/c3\nsL3jiouFHtHuqmF2c5Eef+PFflz30GGAOjXhZ7lcubFTZ0JJSmMqGQKBgDDZEbBz\n5uGJwM5/pJeXMU3x5L9c1iO7nWfMEOHbms9SrAh09/e9UmyJ0Dqna5plalpIWWjF\nXUH58tGEIYvkHrLyaA7h3OUfM7iI/l3C4zfyzxtPLQUyIDh/OmKnzOWowNW9GUR2\nPHlumG7h3NVCx7PzQF5qSnmaNCp9cAT24vedAoGBANfaP8DB7aU9MgFxLmNFwLd8\nPPcThCvPQuXfL0CaHtnZ564Uo2+JbK56mdBUh1NHILeZ0t+SUMdu0iqG+T65DR/2\n6GVcgNmx5xrVTti7FSCzY7JQuQJR5ufcxdo6t467ja4XMYU8SzH/sCxxIjRlPEiS\nyMKqsU58XUJVPJVNvCC/\n-----END PRIVATE KEY-----\n",
+  "client_email": "g-sheet-service-account@tribal-monolith-242711.iam.gserviceaccount.com",
+  "client_id": "113651868284383564907",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/g-sheet-service-account%40tribal-monolith-242711.iam.gserviceaccount.com"
+}

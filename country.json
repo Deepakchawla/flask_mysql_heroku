@@ -1,0 +1,1249 @@
+{ "country_data":
+[
+  {
+    "country name": "Afghanistan",
+    "char code 2": "AF",
+    "char code 3": "AFG"
+  },
+  {
+    "country name": "Aland Islands",
+    "char code 2": "AX",
+    "char code 3": "ALA"
+  },
+  {
+    "country name": "Albania",
+    "char code 2": "AL",
+    "char code 3": "ALB"
+  },
+  {
+    "country name": "Algeria",
+    "char code 2": "DZ",
+    "char code 3": "DZA"
+  },
+  {
+    "country name": "American Samoa",
+    "char code 2": "AS",
+    "char code 3": "ASM"
+  },
+  {
+    "country name": "Andorra",
+    "char code 2": "AD",
+    "char code 3": "AND"
+  },
+  {
+    "country name": "Angola",
+    "char code 2": "AO",
+    "char code 3": "AGO"
+  },
+  {
+    "country name": "Anguilla",
+    "char code 2": "AI",
+    "char code 3": "AIA"
+  },
+  {
+    "country name": "Antarctica",
+    "char code 2": "AQ",
+    "char code 3": "ATA"
+  },
+  {
+    "country name": "Antigua and Barbuda",
+    "char code 2": "AG",
+    "char code 3": "ATG"
+  },
+  {
+    "country name": "Argentina",
+    "char code 2": "AR",
+    "char code 3": "ARG"
+  },
+  {
+    "country name": "Armenia",
+    "char code 2": "AM",
+    "char code 3": "ARM"
+  },
+  {
+    "country name": "Aruba",
+    "char code 2": "AW",
+    "char code 3": "ABW"
+  },
+  {
+    "country name": "Australia",
+    "char code 2": "AU",
+    "char code 3": "AUS"
+  },
+  {
+    "country name": "Austria",
+    "char code 2": "AT",
+    "char code 3": "AUT"
+  },
+  {
+    "country name": "Azerbaijan",
+    "char code 2": "AZ",
+    "char code 3": "AZE"
+  },
+  {
+    "country name": "Bahamas (the)",
+    "char code 2": "BS",
+    "char code 3": "BHS"
+  },
+  {
+    "country name": "Bahrain",
+    "char code 2": "BH",
+    "char code 3": "BHR"
+  },
+  {
+    "country name": "Bangladesh",
+    "char code 2": "BD",
+    "char code 3": "BGD"
+  },
+  {
+    "country name": "Barbados",
+    "char code 2": "BB",
+    "char code 3": "BRB"
+  },
+  {
+    "country name": "Belarus",
+    "char code 2": "BY",
+    "char code 3": "BLR"
+  },
+  {
+    "country name": "Belgium",
+    "char code 2": "BE",
+    "char code 3": "BEL"
+  },
+  {
+    "country name": "Belize",
+    "char code 2": "BZ",
+    "char code 3": "BLZ"
+  },
+  {
+    "country name": "Benin",
+    "char code 2": "BJ",
+    "char code 3": "BEN"
+  },
+  {
+    "country name": "Bermuda",
+    "char code 2": "BM",
+    "char code 3": "BMU"
+  },
+  {
+    "country name": "Bhutan",
+    "char code 2": "BT",
+    "char code 3": "BTN"
+  },
+  {
+    "country name": "Bolivia (Plurinational State of)",
+    "char code 2": "BO",
+    "char code 3": "BOL"
+  },
+  {
+    "country name": "Bonaire, Sint Eustatius and Saba",
+    "char code 2": "BQ",
+    "char code 3": "BES"
+  },
+  {
+    "country name": "Bosnia and Herzegovina",
+    "char code 2": "BA",
+    "char code 3": "BIH"
+  },
+  {
+    "country name": "Botswana",
+    "char code 2": "BW",
+    "char code 3": "BWA"
+  },
+  {
+    "country name": "Bouvet Island",
+    "char code 2": "BV",
+    "char code 3": "BVT"
+  },
+  {
+    "country name": "Brazil",
+    "char code 2": "BR",
+    "char code 3": "BRA"
+  },
+  {
+    "country name": "British Indian Ocean Territory (the)",
+    "char code 2": "IO",
+    "char code 3": "IOT"
+  },
+  {
+    "country name": "Brunei Darussalam",
+    "char code 2": "BN",
+    "char code 3": "BRN"
+  },
+  {
+    "country name": "Bulgaria",
+    "char code 2": "BG",
+    "char code 3": "BGR"
+  },
+  {
+    "country name": "Burkina Faso",
+    "char code 2": "BF",
+    "char code 3": "BFA"
+  },
+  {
+    "country name": "Burundi",
+    "char code 2": "BI",
+    "char code 3": "BDI"
+  },
+  {
+    "country name": "Cabo Verde",
+    "char code 2": "CV",
+    "char code 3": "CPV"
+  },
+  {
+    "country name": "Cambodia",
+    "char code 2": "KH",
+    "char code 3": "KHM"
+  },
+  {
+    "country name": "Cameroon",
+    "char code 2": "CM",
+    "char code 3": "CMR"
+  },
+  {
+    "country name": "Canada",
+    "char code 2": "CA",
+    "char code 3": "CAN"
+  },
+  {
+    "country name": "Cayman Islands (the)",
+    "char code 2": "KY",
+    "char code 3": "CYM"
+  },
+  {
+    "country name": "Central African Republic (the)",
+    "char code 2": "CF",
+    "char code 3": "CAF"
+  },
+  {
+    "country name": "Chad",
+    "char code 2": "TD",
+    "char code 3": "TCD"
+  },
+  {
+    "country name": "Chile",
+    "char code 2": "CL",
+    "char code 3": "CHL"
+  },
+  {
+    "country name": "China",
+    "char code 2": "CN",
+    "char code 3": "CHN"
+  },
+  {
+    "country name": "Christmas Island",
+    "char code 2": "CX",
+    "char code 3": "CXR"
+  },
+  {
+    "country name": "Cocos (Keeling) Islands (the)",
+    "char code 2": "CC",
+    "char code 3": "CCK"
+  },
+  {
+    "country name": "Colombia",
+    "char code 2": "CO",
+    "char code 3": "COL"
+  },
+  {
+    "country name": "Comoros (the)",
+    "char code 2": "KM",
+    "char code 3": "COM"
+  },
+  {
+    "country name": "Congo (the Democratic Republic of the)",
+    "char code 2": "CD",
+    "char code 3": "COD"
+  },
+  {
+    "country name": "Congo (the)",
+    "char code 2": "CG",
+    "char code 3": "COG"
+  },
+  {
+    "country name": "Cook Islands (the)",
+    "char code 2": "CK",
+    "char code 3": "COK"
+  },
+  {
+    "country name": "Costa Rica",
+    "char code 2": "CR",
+    "char code 3": "CRI"
+  },
+  {
+    "country name": "Cote d'Ivoire",
+    "char code 2": "CI",
+    "char code 3": "CIV"
+  },
+  {
+    "country name": "Croatia",
+    "char code 2": "HR",
+    "char code 3": "HRV"
+  },
+  {
+    "country name": "Cuba",
+    "char code 2": "CU",
+    "char code 3": "CUB"
+  },
+  {
+    "country name": "Curacao",
+    "char code 2": "CW",
+    "char code 3": "CUW"
+  },
+  {
+    "country name": "Cyprus",
+    "char code 2": "CY",
+    "char code 3": "CYP"
+  },
+  {
+    "country name": "Czech Republic (the)",
+    "char code 2": "CZ",
+    "char code 3": "CZE"
+  },
+  {
+    "country name": "Denmark",
+    "char code 2": "DK",
+    "char code 3": "DNK"
+  },
+  {
+    "country name": "Djibouti",
+    "char code 2": "DJ",
+    "char code 3": "DJI"
+  },
+  {
+    "country name": "Dominica",
+    "char code 2": "DM",
+    "char code 3": "DMA"
+  },
+  {
+    "country name": "Dominican Republic (the)",
+    "char code 2": "DO",
+    "char code 3": "DOM"
+  },
+  {
+    "country name": "Ecuador",
+    "char code 2": "EC",
+    "char code 3": "ECU"
+  },
+  {
+    "country name": "Egypt",
+    "char code 2": "EG",
+    "char code 3": "EGY"
+  },
+  {
+    "country name": "El Salvador",
+    "char code 2": "SV",
+    "char code 3": "SLV"
+  },
+  {
+    "country name": "Equatorial Guinea",
+    "char code 2": "GQ",
+    "char code 3": "GNQ"
+  },
+  {
+    "country name": "Eritrea",
+    "char code 2": "ER",
+    "char code 3": "ERI"
+  },
+  {
+    "country name": "Estonia",
+    "char code 2": "EE",
+    "char code 3": "EST"
+  },
+  {
+    "country name": "Ethiopia",
+    "char code 2": "ET",
+    "char code 3": "ETH"
+  },
+  {
+    "country name": "Falkland Islands (the) [Malvinas]",
+    "char code 2": "FK",
+    "char code 3": "FLK"
+  },
+  {
+    "country name": "Faroe Islands (the)",
+    "char code 2": "FO",
+    "char code 3": "FRO"
+  },
+  {
+    "country name": "Fiji",
+    "char code 2": "FJ",
+    "char code 3": "FJI"
+  },
+  {
+    "country name": "Finland",
+    "char code 2": "FI",
+    "char code 3": "FIN"
+  },
+  {
+    "country name": "France",
+    "char code 2": "FR",
+    "char code 3": "FRA"
+  },
+  {
+    "country name": "French Guiana",
+    "char code 2": "GF",
+    "char code 3": "GUF"
+  },
+  {
+    "country name": "French Polynesia",
+    "char code 2": "PF",
+    "char code 3": "PYF"
+  },
+  {
+    "country name": "French Southern Territories (the)",
+    "char code 2": "TF",
+    "char code 3": "ATF"
+  },
+  {
+    "country name": "Gabon",
+    "char code 2": "GA",
+    "char code 3": "GAB"
+  },
+  {
+    "country name": "Gambia (the)",
+    "char code 2": "GM",
+    "char code 3": "GMB"
+  },
+  {
+    "country name": "Georgia",
+    "char code 2": "GE",
+    "char code 3": "GEO"
+  },
+  {
+    "country name": "Germany",
+    "char code 2": "DE",
+    "char code 3": "DEU"
+  },
+  {
+    "country name": "Ghana",
+    "char code 2": "GH",
+    "char code 3": "GHA"
+  },
+  {
+    "country name": "Gibraltar",
+    "char code 2": "GI",
+    "char code 3": "GIB"
+  },
+  {
+    "country name": "Greece",
+    "char code 2": "GR",
+    "char code 3": "GRC"
+  },
+  {
+    "country name": "Greenland",
+    "char code 2": "GL",
+    "char code 3": "GRL"
+  },
+  {
+    "country name": "Grenada",
+    "char code 2": "GD",
+    "char code 3": "GRD"
+  },
+  {
+    "country name": "Guadeloupe",
+    "char code 2": "GP",
+    "char code 3": "GLP"
+  },
+  {
+    "country name": "Guam",
+    "char code 2": "GU",
+    "char code 3": "GUM"
+  },
+  {
+    "country name": "Guatemala",
+    "char code 2": "GT",
+    "char code 3": "GTM"
+  },
+  {
+    "country name": "Guernsey",
+    "char code 2": "GG",
+    "char code 3": "GGY"
+  },
+  {
+    "country name": "Guinea",
+    "char code 2": "GN",
+    "char code 3": "GIN"
+  },
+  {
+    "country name": "Guinea-Bissau",
+    "char code 2": "GW",
+    "char code 3": "GNB"
+  },
+  {
+    "country name": "Guyana",
+    "char code 2": "GY",
+    "char code 3": "GUY"
+  },
+  {
+    "country name": "Haiti",
+    "char code 2": "HT",
+    "char code 3": "HTI"
+  },
+  {
+    "country name": "Heard Island and McDonald Islands",
+    "char code 2": "HM",
+    "char code 3": "HMD"
+  },
+  {
+    "country name": "Holy See (the)",
+    "char code 2": "VA",
+    "char code 3": "VAT"
+  },
+  {
+    "country name": "Honduras",
+    "char code 2": "HN",
+    "char code 3": "HND"
+  },
+  {
+    "country name": "Hong Kong",
+    "char code 2": "HK",
+    "char code 3": "HKG"
+  },
+  {
+    "country name": "Hungary",
+    "char code 2": "HU",
+    "char code 3": "HUN"
+  },
+  {
+    "country name": "Iceland",
+    "char code 2": "IS",
+    "char code 3": "ISL"
+  },
+  {
+    "country name": "India",
+    "char code 2": "IN",
+    "char code 3": "IND"
+  },
+  {
+    "country name": "Indonesia",
+    "char code 2": "ID",
+    "char code 3": "IDN"
+  },
+  {
+    "country name": "Iran (Islamic Republic of)",
+    "char code 2": "IR",
+    "char code 3": "IRN"
+  },
+  {
+    "country name": "Iraq",
+    "char code 2": "IQ",
+    "char code 3": "IRQ"
+  },
+  {
+    "country name": "Ireland",
+    "char code 2": "IE",
+    "char code 3": "IRL"
+  },
+  {
+    "country name": "Isle of Man",
+    "char code 2": "IM",
+    "char code 3": "IMN"
+  },
+  {
+    "country name": "Israel",
+    "char code 2": "IL",
+    "char code 3": "ISR"
+  },
+  {
+    "country name": "Italy",
+    "char code 2": "IT",
+    "char code 3": "ITA"
+  },
+  {
+    "country name": "Jamaica",
+    "char code 2": "JM",
+    "char code 3": "JAM"
+  },
+  {
+    "country name": "Japan",
+    "char code 2": "JP",
+    "char code 3": "JPN"
+  },
+  {
+    "country name": "Jersey",
+    "char code 2": "JE",
+    "char code 3": "JEY"
+  },
+  {
+    "country name": "Jordan",
+    "char code 2": "JO",
+    "char code 3": "JOR"
+  },
+  {
+    "country name": "Kazakhstan",
+    "char code 2": "KZ",
+    "char code 3": "KAZ"
+  },
+  {
+    "country name": "Kenya",
+    "char code 2": "KE",
+    "char code 3": "KEN"
+  },
+  {
+    "country name": "Kiribati",
+    "char code 2": "KI",
+    "char code 3": "KIR"
+  },
+  {
+    "country name": "Korea (the Democratic People's Republic of)",
+    "char code 2": "KP",
+    "char code 3": "PRK"
+  },
+  {
+    "country name": "Korea (the Republic of)",
+    "char code 2": "KR",
+    "char code 3": "KOR"
+  },
+  {
+    "country name": "Kuwait",
+    "char code 2": "KW",
+    "char code 3": "KWT"
+  },
+  {
+    "country name": "Kyrgyzstan",
+    "char code 2": "KG",
+    "char code 3": "KGZ"
+  },
+  {
+    "country name": "Lao People's Democratic Republic (the)",
+    "char code 2": "LA",
+    "char code 3": "LAO"
+  },
+  {
+    "country name": "Latvia",
+    "char code 2": "LV",
+    "char code 3": "LVA"
+  },
+  {
+    "country name": "Lebanon",
+    "char code 2": "LB",
+    "char code 3": "LBN"
+  },
+  {
+    "country name": "Lesotho",
+    "char code 2": "LS",
+    "char code 3": "LSO"
+  },
+  {
+    "country name": "Liberia",
+    "char code 2": "LR",
+    "char code 3": "LBR"
+  },
+  {
+    "country name": "Libya",
+    "char code 2": "LY",
+    "char code 3": "LBY"
+  },
+  {
+    "country name": "Liechtenstein",
+    "char code 2": "LI",
+    "char code 3": "LIE"
+  },
+  {
+    "country name": "Lithuania",
+    "char code 2": "LT",
+    "char code 3": "LTU"
+  },
+  {
+    "country name": "Luxembourg",
+    "char code 2": "LU",
+    "char code 3": "LUX"
+  },
+  {
+    "country name": "Macao",
+    "char code 2": "MO",
+    "char code 3": "MAC"
+  },
+  {
+    "country name": "Macedonia (the former Yugoslav Republic of)",
+    "char code 2": "MK",
+    "char code 3": "MKD"
+  },
+  {
+    "country name": "Madagascar",
+    "char code 2": "MG",
+    "char code 3": "MDG"
+  },
+  {
+    "country name": "Malawi",
+    "char code 2": "MW",
+    "char code 3": "MWI"
+  },
+  {
+    "country name": "Malaysia",
+    "char code 2": "MY",
+    "char code 3": "MYS"
+  },
+  {
+    "country name": "Maldives",
+    "char code 2": "MV",
+    "char code 3": "MDV"
+  },
+  {
+    "country name": "Mali",
+    "char code 2": "ML",
+    "char code 3": "MLI"
+  },
+  {
+    "country name": "Malta",
+    "char code 2": "MT",
+    "char code 3": "MLT"
+  },
+  {
+    "country name": "Marshall Islands (the)",
+    "char code 2": "MH",
+    "char code 3": "MHL"
+  },
+  {
+    "country name": "Martinique",
+    "char code 2": "MQ",
+    "char code 3": "MTQ"
+  },
+  {
+    "country name": "Mauritania",
+    "char code 2": "MR",
+    "char code 3": "MRT"
+  },
+  {
+    "country name": "Mauritius",
+    "char code 2": "MU",
+    "char code 3": "MUS"
+  },
+  {
+    "country name": "Mayotte",
+    "char code 2": "YT",
+    "char code 3": "MYT"
+  },
+  {
+    "country name": "Mexico",
+    "char code 2": "MX",
+    "char code 3": "MEX"
+  },
+  {
+    "country name": "Micronesia (Federated States of)",
+    "char code 2": "FM",
+    "char code 3": "FSM"
+  },
+  {
+    "country name": "Moldova (the Republic of)",
+    "char code 2": "MD",
+    "char code 3": "MDA"
+  },
+  {
+    "country name": "Monaco",
+    "char code 2": "MC",
+    "char code 3": "MCO"
+  },
+  {
+    "country name": "Mongolia",
+    "char code 2": "MN",
+    "char code 3": "MNG"
+  },
+  {
+    "country name": "Montenegro",
+    "char code 2": "ME",
+    "char code 3": "MNE"
+  },
+  {
+    "country name": "Montserrat",
+    "char code 2": "MS",
+    "char code 3": "MSR"
+  },
+  {
+    "country name": "Morocco",
+    "char code 2": "MA",
+    "char code 3": "MAR"
+  },
+  {
+    "country name": "Mozambique",
+    "char code 2": "MZ",
+    "char code 3": "MOZ"
+  },
+  {
+    "country name": "Myanmar",
+    "char code 2": "MM",
+    "char code 3": "MMR"
+  },
+  {
+    "country name": "Namibia",
+    "char code 2": "NA",
+    "char code 3": "NAM"
+  },
+  {
+    "country name": "Nauru",
+    "char code 2": "NR",
+    "char code 3": "NRU"
+  },
+  {
+    "country name": "Nepal",
+    "char code 2": "NP",
+    "char code 3": "NPL"
+  },
+  {
+    "country name": "Netherlands (the)",
+    "char code 2": "NL",
+    "char code 3": "NLD"
+  },
+  {
+    "country name": "New Caledonia",
+    "char code 2": "NC",
+    "char code 3": "NCL"
+  },
+  {
+    "country name": "New Zealand",
+    "char code 2": "NZ",
+    "char code 3": "NZL"
+  },
+  {
+    "country name": "Nicaragua",
+    "char code 2": "NI",
+    "char code 3": "NIC"
+  },
+  {
+    "country name": "Niger (the)",
+    "char code 2": "NE",
+    "char code 3": "NER"
+  },
+  {
+    "country name": "Nigeria",
+    "char code 2": "NG",
+    "char code 3": "NGA"
+  },
+  {
+    "country name": "Niue",
+    "char code 2": "NU",
+    "char code 3": "NIU"
+  },
+  {
+    "country name": "Norfolk Island",
+    "char code 2": "NF",
+    "char code 3": "NFK"
+  },
+  {
+    "country name": "Northern Mariana Islands (the)",
+    "char code 2": "MP",
+    "char code 3": "MNP"
+  },
+  {
+    "country name": "Norway",
+    "char code 2": "NO",
+    "char code 3": "NOR"
+  },
+  {
+    "country name": "Oman",
+    "char code 2": "OM",
+    "char code 3": "OMN"
+  },
+  {
+    "country name": "Pakistan",
+    "char code 2": "PK",
+    "char code 3": "PAK"
+  },
+  {
+    "country name": "Palau",
+    "char code 2": "PW",
+    "char code 3": "PLW"
+  },
+  {
+    "country name": "Palestine, State of",
+    "char code 2": "PS",
+    "char code 3": "PSE"
+  },
+  {
+    "country name": "Panama",
+    "char code 2": "PA",
+    "char code 3": "PAN"
+  },
+  {
+    "country name": "Papua New Guinea",
+    "char code 2": "PG",
+    "char code 3": "PNG"
+  },
+  {
+    "country name": "Paraguay",
+    "char code 2": "PY",
+    "char code 3": "PRY"
+  },
+  {
+    "country name": "Peru",
+    "char code 2": "PE",
+    "char code 3": "PER"
+  },
+  {
+    "country name": "Philippines (the)",
+    "char code 2": "PH",
+    "char code 3": "PHL"
+  },
+  {
+    "country name": "Pitcairn",
+    "char code 2": "PN",
+    "char code 3": "PCN"
+  },
+  {
+    "country name": "Poland",
+    "char code 2": "PL",
+    "char code 3": "POL"
+  },
+  {
+    "country name": "Portugal",
+    "char code 2": "PT",
+    "char code 3": "PRT"
+  },
+  {
+    "country name": "Puerto Rico",
+    "char code 2": "PR",
+    "char code 3": "PRI"
+  },
+  {
+    "country name": "Qatar",
+    "char code 2": "QA",
+    "char code 3": "QAT"
+  },
+  {
+    "country name": "Réunion",
+    "char code 2": "RE",
+    "char code 3": "REU"
+  },
+  {
+    "country name": "Romania",
+    "char code 2": "RO",
+    "char code 3": "ROU"
+  },
+  {
+    "country name": "Russian Federation (the)",
+    "char code 2": "RU",
+    "char code 3": "RUS"
+  },
+  {
+    "country name": "Rwanda",
+    "char code 2": "RW",
+    "char code 3": "RWA"
+  },
+  {
+    "country name": "Saint Barthélemy",
+    "char code 2": "BL",
+    "char code 3": "BLM"
+  },
+  {
+    "country name": "Saint Helena, Ascension and Tristan da Cunha",
+    "char code 2": "SH",
+    "char code 3": "SHN"
+  },
+  {
+    "country name": "Saint Kitts and Nevis",
+    "char code 2": "KN",
+    "char code 3": "KNA"
+  },
+  {
+    "country name": "Saint Lucia",
+    "char code 2": "LC",
+    "char code 3": "LCA"
+  },
+  {
+    "country name": "Saint Martin (French part)",
+    "char code 2": "MF",
+    "char code 3": "MAF"
+  },
+  {
+    "country name": "Saint Pierre and Miquelon",
+    "char code 2": "PM",
+    "char code 3": "SPM"
+  },
+  {
+    "country name": "Saint Vincent and the Grenadines",
+    "char code 2": "VC",
+    "char code 3": "VCT"
+  },
+  {
+    "country name": "Samoa",
+    "char code 2": "WS",
+    "char code 3": "WSM"
+  },
+  {
+    "country name": "San Marino",
+    "char code 2": "SM",
+    "char code 3": "SMR"
+  },
+  {
+    "country name": "Sao Tome and Principe",
+    "char code 2": "ST",
+    "char code 3": "STP"
+  },
+  {
+    "country name": "Saudi Arabia",
+    "char code 2": "SA",
+    "char code 3": "SAU"
+  },
+  {
+    "country name": "Senegal",
+    "char code 2": "SN",
+    "char code 3": "SEN"
+  },
+  {
+    "country name": "Serbia",
+    "char code 2": "RS",
+    "char code 3": "SRB"
+  },
+  {
+    "country name": "Seychelles",
+    "char code 2": "SC",
+    "char code 3": "SYC"
+  },
+  {
+    "country name": "Sierra Leone",
+    "char code 2": "SL",
+    "char code 3": "SLE"
+  },
+  {
+    "country name": "Singapore",
+    "char code 2": "SG",
+    "char code 3": "SGP"
+  },
+  {
+    "country name": "Sint Maarten (Dutch part)",
+    "char code 2": "SX",
+    "char code 3": "SXM"
+  },
+  {
+    "country name": "Slovakia",
+    "char code 2": "SK",
+    "char code 3": "SVK"
+  },
+  {
+    "country name": "Slovenia",
+    "char code 2": "SI",
+    "char code 3": "SVN"
+  },
+  {
+    "country name": "Solomon Islands",
+    "char code 2": "SB",
+    "char code 3": "SLB"
+  },
+  {
+    "country name": "Somalia",
+    "char code 2": "SO",
+    "char code 3": "SOM"
+  },
+  {
+    "country name": "South Africa",
+    "char code 2": "ZA",
+    "char code 3": "ZAF"
+  },
+  {
+    "country name": "South Georgia and the South Sandwich Islands",
+    "char code 2": "GS",
+    "char code 3": "SGS"
+  },
+  {
+    "country name": "South Sudan",
+    "char code 2": "SS",
+    "char code 3": "SSD"
+  },
+  {
+    "country name": "Spain",
+    "char code 2": "ES",
+    "char code 3": "ESP"
+  },
+  {
+    "country name": "Sri Lanka",
+    "char code 2": "LK",
+    "char code 3": "LKA"
+  },
+  {
+    "country name": "Sudan (the)",
+    "char code 2": "SD",
+    "char code 3": "SDN"
+  },
+  {
+    "country name": "Suriname",
+    "char code 2": "SR",
+    "char code 3": "SUR"
+  },
+  {
+    "country name": "Svalbard and Jan Mayen",
+    "char code 2": "SJ",
+    "char code 3": "SJM"
+  },
+  {
+    "country name": "Swaziland",
+    "char code 2": "SZ",
+    "char code 3": "SWZ"
+  },
+  {
+    "country name": "Sweden",
+    "char code 2": "SE",
+    "char code 3": "SWE"
+  },
+  {
+    "country name": "Switzerland",
+    "char code 2": "CH",
+    "char code 3": "CHE"
+  },
+  {
+    "country name": "Syrian Arab Republic",
+    "char code 2": "SY",
+    "char code 3": "SYR"
+  },
+  {
+    "country name": "Taiwan (Province of China)",
+    "char code 2": "TW",
+    "char code 3": "TWN"
+  },
+  {
+    "country name": "Tajikistan",
+    "char code 2": "TJ",
+    "char code 3": "TJK"
+  },
+  {
+    "country name": "Tanzania, United Republic of",
+    "char code 2": "TZ",
+    "char code 3": "TZA"
+  },
+  {
+    "country name": "Thailand",
+    "char code 2": "TH",
+    "char code 3": "THA"
+  },
+  {
+    "country name": "Timor-Leste",
+    "char code 2": "TL",
+    "char code 3": "TLS"
+  },
+  {
+    "country name": "Togo",
+    "char code 2": "TG",
+    "char code 3": "TGO"
+  },
+  {
+    "country name": "Tokelau",
+    "char code 2": "TK",
+    "char code 3": "TKL"
+  },
+  {
+    "country name": "Tonga",
+    "char code 2": "TO",
+    "char code 3": "TON"
+  },
+  {
+    "country name": "Trinidad and Tobago",
+    "char code 2": "TT",
+    "char code 3": "TTO"
+  },
+  {
+    "country name": "Tunisia",
+    "char code 2": "TN",
+    "char code 3": "TUN"
+  },
+  {
+    "country name": "Turkey",
+    "char code 2": "TR",
+    "char code 3": "TUR"
+  },
+  {
+    "country name": "Turkmenistan",
+    "char code 2": "TM",
+    "char code 3": "TKM"
+  },
+  {
+    "country name": "Turks and Caicos Islands (the)",
+    "char code 2": "TC",
+    "char code 3": "TCA"
+  },
+  {
+    "country name": "Tuvalu",
+    "char code 2": "TV",
+    "char code 3": "TUV"
+  },
+  {
+    "country name": "Uganda",
+    "char code 2": "UG",
+    "char code 3": "UGA"
+  },
+  {
+    "country name": "Ukraine",
+    "char code 2": "UA",
+    "char code 3": "UKR"
+  },
+  {
+    "country name": "United Arab Emirates (the)",
+    "char code 2": "AE",
+    "char code 3": "ARE"
+  },
+  {
+    "country name": "United Kingdom of Great Britain and Northern Ireland (the)",
+    "char code 2": "GB",
+    "char code 3": "GBR"
+  },
+  {
+    "country name": "United States Minor Outlying Islands (the)",
+    "char code 2": "UM",
+    "char code 3": "UMI"
+  },
+  {
+    "country name": "United States of America (the)",
+    "char code 2": "US",
+    "char code 3": "USA"
+  },
+  {
+    "country name": "Uruguay",
+    "char code 2": "UY",
+    "char code 3": "URY"
+  },
+  {
+    "country name": "Uzbekistan",
+    "char code 2": "UZ",
+    "char code 3": "UZB"
+  },
+  {
+    "country name": "Vanuatu",
+    "char code 2": "VU",
+    "char code 3": "VUT"
+  },
+  {
+    "country name": "Venezuela (Bolivarian Republic of)",
+    "char code 2": "VE",
+    "char code 3": "VEN"
+  },
+  {
+    "country name": "Viet Nam",
+    "char code 2": "VN",
+    "char code 3": "VNM"
+  },
+  {
+    "country name": "Virgin Islands (British)",
+    "char code 2": "VG",
+    "char code 3": "VGB"
+  },
+  {
+    "country name": "Virgin Islands (U.S.)",
+    "char code 2": "VI",
+    "char code 3": "VIR"
+  },
+  {
+    "country name": "Wallis and Futuna",
+    "char code 2": "WF",
+    "char code 3": "WLF"
+  },
+  {
+    "country name": "Western Sahara*",
+    "char code 2": "EH",
+    "char code 3": "ESH"
+  },
+  {
+    "country name": "Yemen",
+    "char code 2": "YE",
+    "char code 3": "YEM"
+  },
+  {
+    "country name": "Zambia",
+    "char code 2": "ZM",
+    "char code 3": "ZMB"
+  },
+  {
+    "country name": "Zimbabwe",
+    "char code 2": "ZW",
+    "char code 3": "ZWE"
+  }
+]
+}
