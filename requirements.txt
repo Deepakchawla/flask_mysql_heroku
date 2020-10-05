@@ -5,3 +5,4 @@ MarkupSafe==0.23
 SQLAlchemy==1.0.4
 Werkzeug==0.10.4
 itsdangerous==0.24
+flask-cors==3.0.9
